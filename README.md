@@ -21,5 +21,5 @@ Full Efi for Asus Vivobook S510UA. WOrks on High Sierra
 
 # Know problems
 
-    1.  Microphone
+    1.  WIFI+BT
 
