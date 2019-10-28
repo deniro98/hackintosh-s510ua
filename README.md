@@ -1,5 +1,6 @@
 # hackintosh-s510ua
-Full Efi for Asus Vivobook S510UA. WOrks on High Sierra 
+Full Efi for Asus Vivobook S510UA. Works on High Sierra
+Catalina Works Cool!
 
 # System specification
 
@@ -15,9 +16,19 @@ Full Efi for Asus Vivobook S510UA. WOrks on High Sierra
 
 # Step to install
 
-	1. Boot on any linux lifecd
-	2. Replace your EFI to this EFI
+	0. get wired keyboard and mouse
+	1. Replace your EFI to this EFI
+	2. Install MAC OS
 	3. Reboot.
+	4. Move all EFI kexts to /Library/Extensions
+	5. Reboot
+	6. Touchpad works, gestures works awesome
+	
+# Run SIRI on S510UA
+
+	1. Gen True SMBIOS and SN Number with Clover Configurator
+	2. Install nullethernet.kext from Rehabman
+	3. Reboot
 
 # Know problems
 
