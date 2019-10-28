@@ -1,5 +1,6 @@
 # hackintosh-s510ua
 Full Efi for Asus Vivobook S510UA. Works on High Sierra
+
 Catalina Works Cool!
 
 # System specification
